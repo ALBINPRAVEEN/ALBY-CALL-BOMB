@@ -426,7 +426,7 @@ def start(target, counter, delay, ch, cc):
                 else:
                     print('\n\n\tSorry Your Country is Not Supported...')
                     print(
-                        '\t\tPlease Send A Mail To nandydark@gmail.com To Let Us Know...')
+                        '\t\tPlease Send A Mail To albinpraveen135790k@gmail.com To Let Us Know...')
                     input('Press Enter To Exit...')
                     exit()
         print("==================================================================")
@@ -574,7 +574,7 @@ if nm == 0:
     print("             Delay               : ", dl)
     print("==================================================================")
     print("              Use this for fun, not for revenge !!                ")
-    print("              This Bomber Was edited BY nandydark credits to owner@speedx !! ")
+    print("              This Bomber Was edited BY ALBY credits to owner@speedx !! ")
     print("==================================================================")
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
     os.system('rm *.xxx* > /dev/null 2>&1')
