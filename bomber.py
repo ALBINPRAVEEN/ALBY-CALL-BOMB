@@ -231,14 +231,14 @@ country_codes = {
 
 def banner():
     cprint("""
-        )           ) (        )   (            (        ) 
- ( /(  (     ( /( )\ )  ( /(   )\ )   (     )\ )  ( /( 
- )\()) )\    )\()|()/(  )\()) (()/(   )\   (()/(  )\())
-((_)((((_)( ((_)\ /(_))((_)\   /(_)|(((_)(  /(_))((_)\ 
- _((_)\ _ )\ _((_|_))___ ((_) (_))_ )\ _ )\(_)) |_ ((_)
-| \| (_)_\(_) \| ||   \ \ / /  |   \(_)_\(_) _ \| |/ / 
-| .` |/ _ \ | .` || |) \ V /   | |) |/ _ \ |   /|' <  
-|_|\_/_/ \_\|_|\_||___/ |_|    |___//_/ \_\|_|_\|_|\_\ 
+MMP"""""""MM M""MMMMMMMM M#"""""""'M  M""MMMM""M 
+M' .mmmm  MM M  MMMMMMMM ##  mmmm. `M M. `MM' .M 
+M         `M M  MMMMMMMM #'        .M MM.    .MM 
+M  MMMMM  MM M  MMMMMMMM M#  MMMb.'YM MMMb  dMMM 
+M  MMMMM  MM M  MMMMMMMM M#  MMMM'  M MMMM  MMMM 
+M  MMMMM  MM M         M M#       .;M MMMM  MMMM 
+MMMMMMMMMMMM MMMMMMMMMMM M#########M  MMMMMMMMMM 
+                                                 
                                          """, 'green')
     print()
 
